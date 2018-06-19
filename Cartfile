@@ -1,0 +1,4 @@
+github "mapbox/mapbox-events-ios" ~> 0.4
+github "mapbox/mapbox-navigation-ios" ~> 0.18
+github "parse-community/Parse-SDK-iOS-OSX"
+binary "https://www.mapbox.com/ios-sdk/Mapbox-iOS-SDK.json" ~> 4.0.2
